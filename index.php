@@ -108,14 +108,21 @@ else {
 						<div class="home-prodlist-img"><a href="OurProducts/Mens_cloth.php">
 							<img src="./image/product/mens_cloth/mens.jpg" class="home-prodlist-imgi">
 							</a>
+							<div style="text-align: center; padding: 0 0 6px 0;">Mens Cloth</div>
 						</div>
+						
 					</li>
+					
 				</ul>
+
+				
+
 				<ul style="float: left;">
 					<li style="float: left; padding: 25px;">
 						<div class="home-prodlist-img"><a href="OurProducts/Woens_cloth.php">
 							<img src="./image/product/womens_cloth/Women.jpg" class="home-prodlist-imgi">
 							</a>
+							<div style="text-align: center; padding: 0 0 6px 0;">Mens Cloth</div>
 						</div>
 					</li>
 				</ul>
@@ -124,6 +131,7 @@ else {
 					<li style="float: left; padding: 25px;">
 						<div class="home-prodlist-img"><a href="OurProducts/Beauty.php">
 							<img src="./image/product/beauty/w_beauty.jpg" class="home-prodlist-imgi"></a>
+							<div style="text-align: center; padding: 0 0 6px 0;"><h1 style="color:red;">Mens Cloth</h1></div>
 						</div>
 					</li>
 				</ul>
@@ -157,7 +165,7 @@ else {
 
 		</div>
 
-		
+		<div style="float: left; height: 100px;width: 100%; text-align:center; background:red;"><h1>My name is Mehedi Hasan </h1></div>
 
 	</body>
 </html>
